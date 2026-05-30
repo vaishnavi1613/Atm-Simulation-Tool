@@ -1,0 +1,12 @@
+1234,Vaishnavi,1000.0
+5678,Aarav,1400.0
+9999,Meena,2000.0
+7524,Aditi,5000.0
+0108,Pratiksha,2500.0
+1013,Advika,3500.0
+1209,Sonu,6000.0
+3012,Smita,8500.0
+1104,Akshata,3000.0
+1802,Pranali,4420.0
+9003,Alina,2500.0
+5612,Anushka,1200.0
